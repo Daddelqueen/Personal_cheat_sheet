@@ -1,0 +1,36 @@
+h1{
+    color:rgb(79, 121, 62); text-align: center;
+}
+
+.highlighted{
+    color: red; 
+}
+
+p{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-size: large;
+
+}
+
+.centered{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: rgb(79, 121, 62); 
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text {
+    flex: auto;
+    text-align: left;
+}
+.image {
+    margin-left: 20px;
+}
